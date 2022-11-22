@@ -7,6 +7,7 @@ make has various functions defined as masterbias, masterflat, masterdark and so 
 
 A thorough example is given which can walk the reader through the make functions
 
+but first you have to run setup_make to install all the needed libraries
 the raw data for the example has been provided by Devanand Ullas, which is taken using Devastal optical Telescope
 
 Thank you so much devanand for the data
