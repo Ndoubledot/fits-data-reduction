@@ -6,3 +6,7 @@ Make can be a useful tool to subtract biase, dark substraction, flat fielding, c
 make has various functions defined as masterbias, masterflat, masterdark and so on which take lists of ccd data and return a single cleaned ccd data
 
 A thorough example is given which can walk the reader through the make functions
+
+the raw data for the example has been provided by Devanand Ullas, taken Devastal optical Telescope
+
+Thank you so much devanand for the data
