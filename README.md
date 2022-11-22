@@ -7,6 +7,6 @@ make has various functions defined as masterbias, masterflat, masterdark and so 
 
 A thorough example is given which can walk the reader through the make functions
 
-the raw data for the example has been provided by Devanand Ullas, taken Devastal optical Telescope
+the raw data for the example has been provided by Devanand Ullas, which is taken using Devastal optical Telescope
 
 Thank you so much devanand for the data
